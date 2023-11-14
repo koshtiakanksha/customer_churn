@@ -4,8 +4,12 @@ This repository presents a comprehensive study on predicting customer churn in t
 
 Key Highlights:
 
-Data Preparation: Meticulous cleaning and transformation ensure a robust dataset.
-Deep Learning Frameworks: Utilizing Keras and TensorFlow for efficient model construction and training.
-Evaluation Metrics: Employing classification metrics such as precision, recall, and F1-score, alongside a Confusion Matrix, to assess model performance.
-Accuracy: The developed model achieves an impressive accuracy of 0.78 on unseen data.
+* Data Preparation: Meticulous cleaning and transformation ensure a robust dataset.
+
+* Deep Learning Frameworks: Utilizing Keras and TensorFlow for efficient model construction and training.
+
+* Evaluation Metrics: Employing classification metrics such as precision, recall, and F1-score, alongside a Confusion Matrix, to assess model performance.
+
+* Accuracy: The developed model achieves an impressive accuracy of 0.78 on unseen data.
+
 This project aims to contribute valuable insights to the telecom industry's ongoing efforts in customer retention, showcasing the efficacy of deep learning in predicting and mitigating customer churn.
