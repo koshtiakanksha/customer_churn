@@ -1,4 +1,6 @@
-# customer_churn
+# Predictive Analytics for Telecom Customer Retention
+
+![Churn](https://www.retently.com/wp-content/uploads/2015/11/leading-causes-of-churn-1.png)
 Telecom Customer Churn Prediction with Deep Learning
 This repository presents a comprehensive study on predicting customer churn in the telecom industry using advanced deep learning techniques. Leveraging the capabilities of Keras and TensorFlow, the project involves rigorous data cleaning, transformation, and scaling to prepare the dataset for analysis.
 
